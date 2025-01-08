@@ -1,4 +1,4 @@
-package Arrays.patterns;
+package patterns;
 
 /*
 *   N=6                     *
