@@ -1,4 +1,4 @@
-package Arrays;
+package arrays;
 /*
 * Given an integer array nums, find the subarray with the largest sum, and return its sum.
   Example 1:
@@ -6,8 +6,6 @@ package Arrays;
     Output: 6
     Explanation: The subarray [4,-1,2,1] has the largest sum 6.
 * */
-
-import java.util.Arrays;
 
 public class Maximum_SubArray {
 

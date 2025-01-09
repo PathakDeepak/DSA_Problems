@@ -1,4 +1,4 @@
-package Arrays;
+package arrays;
 
 public class Maximum_Product_Subarray {
 
