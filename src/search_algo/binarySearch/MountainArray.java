@@ -1,4 +1,4 @@
-package search_algo;
+package search_algo.binarySearch;
 
 /**
  * Given an array of integers arr, return true if and only if it is a valid mountain array.

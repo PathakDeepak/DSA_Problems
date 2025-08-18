@@ -1,4 +1,4 @@
-package search_algo;
+package search_algo.binarySearch;
 
 /**
  * Prior to being passed to your function, nums is possibly left rotated at an unknown index k (1 <= k < nums.length)

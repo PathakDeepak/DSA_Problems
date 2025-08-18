@@ -1,6 +1,4 @@
-package search_algo;
-
-import java.util.Arrays;
+package search_algo.binarySearch;
 
 public class BinarySearch {
 

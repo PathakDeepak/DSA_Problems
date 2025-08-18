@@ -1,4 +1,4 @@
-package search_algo;
+package search_algo.binarySearch;
 
 public class MinimumDifferenceSortedArray {
     public static void main(String[] args) {
