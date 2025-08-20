@@ -34,8 +34,9 @@ public class KokoEatingBananas {
             currentHour += piles[i]/eatingSpeed;
             if (piles[i] % eatingSpeed !=0)
                 currentHour += 1;
+            if (currentHour > hours) return false;
         }
-        if (currentHour > hours) return false;
+
         return true;
     }
 }
